@@ -1,0 +1,18 @@
+{
+  "name": "ejercicio-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Dani Cabrera",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "logplease": "^1.2.15"
+  },
+  "devDependencies": {
+    "nodemo": "^1.0.0"
+  }
+}
